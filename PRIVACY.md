@@ -1,8 +1,8 @@
 # Privacy Policy
 
-**Last Updated: July 10, 2025**
+**Last Updated: August 11, 2025**
 
-This Privacy Policy aims to inform you, the user, about how **qwasd** ("we," "us," or "our") handles your information when you use our **Wear Translator** software ("Software").
+This Privacy Policy aims to inform you, the user, about how **gohj99** ("we," "us," or "our") handles your information when you use our **Wear Translator** software ("Software").
 
 Please read this Privacy Policy carefully before using the Software. By using the Software, you understand and agree to the terms outlined in this policy. If you do not agree with the terms in this Privacy Policy, please do not use the Software.
 
@@ -22,6 +22,12 @@ Please note:
 
 * **We does not store or access your translation content.**
 * Microsoft Azure has its own privacy policy, which we encourage you to review. You can find privacy information related to Azure services by visiting Microsoft's official website.
+
+---
+
+## Clipboard Usage
+
+**Wear Translator** may read from or write to your device's clipboard for the purpose of copying or pasting translation content. All clipboard operations are performed **entirely on your device** and are **never transmitted, uploaded, or stored** by us or any third party. This ensures that your clipboard data remains private and secure at all times.
 
 ---
 
@@ -53,4 +59,4 @@ We may update our Privacy Policy from time to time. Any changes will be posted o
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-Email: qwasdgohj99@gmail.com
+Email: g2818020488@gmail.com
