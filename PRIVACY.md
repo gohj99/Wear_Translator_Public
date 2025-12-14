@@ -1,6 +1,8 @@
 # Privacy Policy
 
-**Last Updated: August 11, 2025**
+[**简体中文**](https://github.com/gohj99/Wear_Translator_Public/blob/master/PRIVACY.zh-CN.md)
+
+**Last Updated: December 14, 2025**
 
 This Privacy Policy aims to inform you, the user, about how **gohj99** ("we," "us," or "our") handles your information when you use our **Wear Translator** software ("Software").
 
