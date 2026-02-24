@@ -10,6 +10,12 @@ Please read this Privacy Policy carefully before using the Software. By using th
 
 ---
 
+## Information We Collect
+
+**Wear Translator does not collect personally identifiable information such as your name, email address, contacts, or account credentials.**
+
+However, in order to operate the service reliably and securely, the Software processes a limited set of **device-level technical identifiers**, specifically:
+
 ### Android Device Identifier (Android ID)
 
 The Software accesses the Android system-provided **Android ID**.
