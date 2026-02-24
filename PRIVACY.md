@@ -2,7 +2,7 @@
 
 [**简体中文**](https://github.com/gohj99/Wear_Translator_Public/blob/master/PRIVACY.zh-CN.md)
 
-**Last Updated: December 14, 2025**
+**Last Updated: February 24, 2026**
 
 This Privacy Policy aims to inform you, the user, about how **gohj99** ("we," "us," or "our") handles your information when you use our **Wear Translator** software ("Software").
 
@@ -10,9 +10,47 @@ Please read this Privacy Policy carefully before using the Software. By using th
 
 ---
 
-## We Do Not Collect Any of Your Data
+### Android Device Identifier (Android ID)
 
-The core principle of **Wear Translator** is to protect your privacy. **We do not collect, store, or process any of your personally identifiable information or any personal data related to your use of this Software.** This includes, but is not limited to, your name, email address, device information, usage patterns, or translation content.
+The Software accesses the Android system-provided **Android ID**.
+This identifier is used strictly for the following purposes:
+
+* Preventing abuse of the translation service (e.g., automated requests, bots, or excessive usage)
+* Enforcing service limits and maintaining fair usage
+* Detecting fraudulent or malicious behavior
+* Maintaining service stability and quality
+* Providing consistent service functionality on the same device
+
+### Important Clarifications
+
+The Android ID:
+
+* **is NOT used for advertising**
+* **is NOT used for user profiling**
+* **is NOT used to track your activity across apps or websites**
+* **is NOT shared with advertisers or data brokers**
+* **does NOT allow us to determine your real-world identity**
+
+We use the identifier only as a technical mechanism to distinguish devices interacting with our service backend. It is treated as a **security and service integrity measure**, not as personal identification.
+
+---
+
+## Information We Do Not Collect
+
+We do **not** collect or store:
+
+* Your name
+* Email address
+* Phone number
+* Contacts
+* Location data
+* Conversations
+* Voice recordings
+* Translation history
+* Personal files
+* Account credentials
+
+Your translation input is not retained by us.
 
 ---
 
